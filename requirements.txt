@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+openpyxl
+scipy
+scikit-learn
+reportlab
+plotly
+xlsxwriter
+ydata-profiling
